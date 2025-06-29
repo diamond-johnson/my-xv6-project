@@ -1,0 +1,6 @@
+*.o
+*.d
+xv6memfs.img
+fs.img
+kernel
+_*
